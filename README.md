@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mehebul Sarkar
-- 👀 I’m interested in Ethical Hacking & Security Development.
-- 🌱 I’m currently learning Ethical Hacking & Security Development.
-- 💞️ I’m looking to collaborate on Ethical Hacking & Security Development.
+- 👀 I’m interested in Ethical Hacking, Security Development, Software Developer, Full Stack Developer.
+- 🌱 I’m currently learning Ethical Hacking, Security Development, Software Developer, Full Stack Developer.
+- 💞️ I’m looking to collaborate on Ethical Hacking, Security Development, Software Developer, Full Stack Developer.
 - 📫 How to reach me:-
 Email ID:- mehebulsarkar@gmail.com
 LinkedIn:-https://www.linkedin.com/in/mehebul-sarkar-091867221/
