@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ethical Hacking, Security Development, Software Developer, Full Stack Developer.
 - 📫 How to reach me:-
 Email ID:- mehebulsarkar@gmail.com
-LinkedIn:-https://www.linkedin.com/in/mehebul-sarkar-091867221/
+LinkedIn:-https://www.linkedin.com/in/mehebul-sarkar/
 
 <!---
 mehebul/mehebul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
